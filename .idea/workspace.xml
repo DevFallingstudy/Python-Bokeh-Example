@@ -86,11 +86,12 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="115" />
-    <option name="y" value="70" />
+    <option name="x" value="62" />
+    <option name="y" value="72" />
     <option name="width" value="974" />
     <option name="height" value="917" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -184,14 +185,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="115" y="70" width="974" height="917" extended-state="0" />
+    <frame x="62" y="72" width="974" height="917" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3297062" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3928113" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3928113" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3265086" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27461708" />
       <window_info anchor="right" id="R Packages" order="3" />
